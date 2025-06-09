@@ -3,7 +3,7 @@
     "rewrites": [
         {
             "source": "/api/index",
-            "destination": "http://localhost:12345/"
+            "destination": "http://localhost:5000/"
         }
     ]
 }

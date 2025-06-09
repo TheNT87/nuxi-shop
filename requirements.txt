@@ -1,1 +1,1 @@
-litestar[standard]
+Flask==3.0.3
